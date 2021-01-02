@@ -16,12 +16,16 @@
 
 ## Essays
 
-1. What exactly is economic growth and why do some parts of the world grow more rapidly than others? ([pdf](dorian_fisher_economic_growth.pdf))
-2. What does the concept of rationality mean in economics? ([pdf](dorian_fisher_rationality.pdf))
-3. Identify an area of economics that you think should be given more attention in the A-Level or IB syllabus and say why this is so. ([pdf](dorian_fisher_school_education.pdf))
-4. "The gig economy is a great opportunity to increase women’s participation in the labor market by allowing more flexibility." Discuss. ([pdf](financial_times_gig_economies.pdf))
-5. How important is a country’s historical path in determining its long-run economic development? ([pdf](historical_path_london_school_of_economics.pdf))
-6. What are the most important economic effects — good and bad — of forced redistribution? How should this inform government policy ([pdf](john_locke_institute_redistribution_essay.pdf))
+- What exactly is economic growth and why do some parts of the world grow more rapidly than others? ([pdf](dorian_fisher_economic_growth.pdf))
+- What does the concept of rationality mean in economics? ([pdf](dorian_fisher_rationality.pdf))
+- Identify an area of economics that you think should be given more attention in the A-Level or IB syllabus and say why this is so. ([pdf](dorian_fisher_school_education.pdf))
+- "The gig economy is a great opportunity to increase women’s participation in the labor market by allowing more flexibility." Discuss. ([pdf](financial_times_gig_economies.pdf))
+- How important is a country’s historical path in determining its long-run economic development? ([pdf](historical_path_london_school_of_economics.pdf))
+- What are the most important economic effects — good and bad — of forced redistribution? How should this inform government policy ([pdf](john_locke_institute_redistribution_essay.pdf))
 
 ## Papers
 
+- Right to Information Project ([RTI Intro](RTI_Intro.pdf), [filed RTI 1](filed_rti_1.pdf), [filed RTI 2](filed_rti_2.pdf))
+- Indian Investments in North America [pdf](indian_investments_in_north_america.pdf)
+- India Migrant Labour Exodus [pdf](migrant_labour_research.pdf)
+- A Study of the State Budget: Collection and Allocation in India post COVID-19 [pdf](state-budget-analysis.pdf)
