@@ -16,6 +16,12 @@
 
 ## Essays
 
+Art
+
+- 5 ways to secure an A* in Cambridge IGCSE Art and Design ((pdf)[cie-art.pdf])
+
+Economics
+
 - What exactly is economic growth and why do some parts of the world grow more rapidly than others? ([pdf](dorian_fisher_economic_growth.pdf))
 - What does the concept of rationality mean in economics? ([pdf](dorian_fisher_rationality.pdf))
 - Identify an area of economics that you think should be given more attention in the A-Level or IB syllabus and say why this is so. ([pdf](dorian_fisher_school_education.pdf))
