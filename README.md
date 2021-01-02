@@ -26,6 +26,6 @@
 ## Papers
 
 - Right to Information Project ([RTI Intro](RTI_Intro.pdf), [filed RTI 1](filed_rti_1.pdf), [filed RTI 2](filed_rti_2.pdf))
-- Indian Investments in North America [pdf](indian_investments_in_north_america.pdf)
-- India Migrant Labour Exodus [pdf](migrant_labour_research.pdf)
-- A Study of the State Budget: Collection and Allocation in India post COVID-19 [pdf](state-budget-analysis.pdf)
+- Indian Investments in North America ([pdf](indian_investments_in_north_america.pdf))
+- India Migrant Labour Exodus ([pdf](migrant_labour_research.pdf))
+- A Study of the State Budget: Collection and Allocation in India post COVID-19 ([pdf](state-budget-analysis.pdf))
