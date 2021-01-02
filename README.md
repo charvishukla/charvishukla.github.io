@@ -18,7 +18,7 @@
 
 Art
 
-- 5 ways to secure an A* in Cambridge IGCSE Art and Design ((pdf)[cie-art.pdf])
+- 5 ways to secure an A* in Cambridge IGCSE Art and Design ([pdf](cie-art.pdf))
 
 Economics
 
