@@ -2,11 +2,7 @@
 
 [Indore, India](https://goo.gl/maps/M1u6cgA5w1VRcdFL8)
 
-Email: shukla.at@gmail.com
-
-Instagram: [charvi__shukla](https://www.instagram.com/charvi__shukla/)
-
-Twitter: [charvi__shukla](https://twitter.com/charvi__shukla)
+[Email](mailto:shukla.charvie@gmail.com) | [Instagram](https://www.instagram.com/charvi__shukla/) | [Twitter](https://twitter.com/charvi__shukla)
 
 ![](propic.jpg)
 
