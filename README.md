@@ -35,3 +35,31 @@ Economics
 - Indian Investments in North America ([pdf](indian_investments_in_north_america.pdf))
 - India Migrant Labour Exodus ([pdf](migrant_labour_research.pdf))
 - A Study of the State Budget: Collection and Allocation in India post COVID-19 ([pdf](state-budget-analysis.pdf))
+
+## Art
+
+- acrylic
+  - [COVID22](COVID22.HEIC)
+  - [Helianthus](Helianthus.HEIC)
+  - [Jaiselmer](Jaiselmer.HEIC)
+  - [SAT](SAT.HEIC)
+  - [silentium](silentium.HEIC)
+- oil
+  - [charvi](charvi.jpg)
+  - [charvy](charvy.jpeg)
+  - [greenhouse](greenhouse.HEIC)
+  - [nairwoman](nairwoman.HEIC)
+- sketches
+  - [dua](dua.JPG)
+  - [kyliejames](kyliejames.JPG)
+  - [sid](sid.JPG)
+  - [spoderman](spoderman.JPG)
+- soft pastel
+  - [kendalljenner](kendalljenner.jpg)
+  - [peaky](peaky.HEIC)
+- cie
+  - [anatomy](anatomy-of-the-human-face.HEIC)
+  - [artist](artist-inspiration.jpeg)
+  - [final](final-outcome.HEIC)
+  - [monochromatic](monochromatic.HEIC)
+
