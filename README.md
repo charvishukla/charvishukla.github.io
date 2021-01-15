@@ -38,28 +38,8 @@ Economics
 
 ## Art
 
-- acrylic
-  - [COVID22](COVID22.HEIC)
-  - [Helianthus](Helianthus.HEIC)
-  - [Jaiselmer](Jaiselmer.HEIC)
-  - [SAT](SAT.HEIC)
-  - [silentium](silentium.HEIC)
-- oil
-  - [charvi](charvi.jpg)
-  - [charvy](charvy.jpeg)
-  - [greenhouse](greenhouse.HEIC)
-  - [nairwoman](nairwoman.HEIC)
-- sketches
-  - [dua](dua.JPG)
-  - [kyliejames](kyliejames.JPG)
-  - [sid](sid.JPG)
-  - [spoderman](spoderman.JPG)
-- soft pastel
-  - [kendalljenner](kendalljenner.jpg)
-  - [peaky](peaky.HEIC)
-- cie
-  - [anatomy](anatomy-of-the-human-face.HEIC)
-  - [artist](artist-inspiration.jpeg)
-  - [final](final-outcome.HEIC)
-  - [monochromatic](monochromatic.HEIC)
-
+- acrylic: [COVID22](COVID22.HEIC), [Helianthus](Helianthus.HEIC), [Jaiselmer](Jaiselmer.HEIC), [SAT](SAT.HEIC), [silentium](silentium.HEIC)
+- oil: [charvi](charvi.jpg), [charvy](charvy.jpeg), [greenhouse](greenhouse.HEIC), [nairwoman](nairwoman.HEIC)
+- sketches: [dua](dua.JPG), [kyliejames](kyliejames.JPG), [sid](sid.JPG), [spoderman](spoderman.JPG)
+- soft pastel: [kendalljenner](kendalljenner.jpg), [peaky](peaky.HEIC)
+- cie: [anatomy](anatomy-of-the-human-face.HEIC), [artist](artist-inspiration.jpeg), [final](final-outcome.HEIC), [monochromatic](monochromatic.HEIC)
