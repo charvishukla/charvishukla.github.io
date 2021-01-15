@@ -38,7 +38,7 @@ Economics
 
 ## Art
 
-(Open in a laptop browser to trigger download)
+(note: Open in a computer browser)
 
 - acrylic: [COVID22](COVID22.HEIC), [Helianthus](Helianthus.HEIC), [Jaiselmer](Jaiselmer.HEIC), [SAT](SAT.HEIC), [silentium](silentium.HEIC)
 - oil: [charvi](charvi.jpg), [charvy](charvy.jpeg), [greenhouse](greenhouse.HEIC), [nairwoman](nairwoman.HEIC)
