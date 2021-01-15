@@ -45,4 +45,4 @@ Economics
 - sketches: [dua](dua.JPG), [kyliejames](kyliejames.JPG), [sid](sid.JPG), [spoderman](spoderman.JPG)
 - soft pastel: [kendalljenner](kendalljenner.jpg), [peaky](peaky.HEIC)
 - cie: [anatomy](anatomy-of-the-human-face.HEIC), [artist](artist-inspiration.jpeg), [final](final-outcome.HEIC), [monochromatic](monochromatic.HEIC)
-- other: [man](man.jpeg), [masks](masks.jpeg)
+- other: [mali](mali.jpeg), [hallows](hallows.jpg), [prettywoman](prettywoman.HEIC)
