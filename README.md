@@ -1,6 +1,6 @@
 # Charvi Shukla
 
-[Indore, India](https://goo.gl/maps/M1u6cgA5w1VRcdFL8)
+University of California - San Diego 
 
 ## Contact
 
