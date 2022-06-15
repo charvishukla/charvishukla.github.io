@@ -5,8 +5,7 @@
 ## Contact
 
 - [Email](mailto:shukla.charvie@gmail.com)
-- [Instagram](https://www.instagram.com/charvi__shukla/) 
-- [Twitter](https://twitter.com/charvi__shukla)
+- [GitHub](https://github.com/charvishukla)
 
 ![](charvi_shukla_profile_picture.png)
 
