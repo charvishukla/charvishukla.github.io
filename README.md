@@ -11,5 +11,5 @@ University of California - San Diego
 
 ## Resume
 
-[pdf](charvi_resume.pdf)
+[pdf](resume.pdf)
 
