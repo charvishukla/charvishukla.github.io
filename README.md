@@ -1,14 +1,8 @@
 # Charvi Shukla
-Hi! My name is Charvi Shukla, and I am a sophomore studying Math-CS at UC San Diego! 
+Hi! My I'm Charvi! 
 
-## Contact
+I was born and raised in Indore, India. Currently, I am a sophomore at UC San Diego, studying Math-CS!
+The best way to reach out to me is via [Email](mailto:cshukla@ucsd.edu). 
+<img src="charvi_image.jpeg" width="60" height="60" />
 
-- [Email](mailto:cshukla@ucsd.edu)
-- [GitHub](https://github.com/charvishukla)
-
-
-<img src="charvi_image.jpeg" width="40" height="40" />
-
-## Resume
-
-[pdf](Charvi_resume.pdf)
+Here's my [GitHub](https://github.com/charvishukla), and my [Resume](Charvi_resume.pdf)
