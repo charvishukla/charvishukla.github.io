@@ -7,4 +7,4 @@ I was born and raised in Indore, India. Currently, I am a sophomore at UC San Di
 
 
 
-Here's my [GitHub](https://github.com/charvishukla), and my [Resume](Charvi_resume.pdf)
+Here's my [GitHub](https://github.com/charvishukla), and my [Resume](charvi_resume.pdf)
