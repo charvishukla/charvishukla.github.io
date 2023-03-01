@@ -6,7 +6,8 @@ Hi! My name is Charvi Shukla, and I am a sophomore studying Math-CS at UC San Di
 - [Email](mailto:cshukla@ucsd.edu)
 - [GitHub](https://github.com/charvishukla)
 
-![](charvi_image.jpeg)
+
+<img src="charvi_image.jpeg" width="100" height="100" />
 
 ## Resume
 
