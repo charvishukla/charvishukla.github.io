@@ -1,15 +1,13 @@
 # Charvi Shukla
-
-University of California - San Diego 
+Hi! My name is Charvi Shukla, and I am a sophomore studying Math-CS at UC San Diego! 
 
 ## Contact
 
-- [Email](mailto:shukla.charvie@gmail.com)
+- [Email](mailto:cshukla@ucsd.edu)
 - [GitHub](https://github.com/charvishukla)
 
-![](charvi_shukla_profile_picture.png)
+![](charvi_image.jpeg)
 
 ## Resume
 
-[pdf](resume.pdf)
-
+[pdf](Charvi_resume.pdf)
