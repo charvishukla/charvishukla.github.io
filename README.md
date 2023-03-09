@@ -1,5 +1,5 @@
 # Charvi Shukla
-Hi! My I'm Charvi! 
+Hi! I'm Charvi! 
 
 <img src="charvi_image.jpeg" width="200px" height="200px" />
 
